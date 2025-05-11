@@ -1,0 +1,3 @@
+1;1994;9.3;The Shawshank Redemption;Frank Darabont;D
+2;2008;9.0;The Dark Knight;Christopher Nolan;A
+3;1999;8.8;Fight Club;David Fincher;T
